@@ -1,6 +1,6 @@
 # CHALLENGE 1 - FRONT-END DESIGN ENGINEERING
 ### Data de criação: 12/03/2024
-### Data de término: 12/03/2024
+### Data de término: 13/03/2024
 
 ### ALUNO:
 ```
