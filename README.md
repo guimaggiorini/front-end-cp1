@@ -2,6 +2,8 @@
 ### Data de criação: 12/03/2024
 ### Data de término: 13/03/2024
 
+### Nota: 100
+
 ### ALUNO:
 ```
 - Nome: Guilherme Henrique Maggiorini
